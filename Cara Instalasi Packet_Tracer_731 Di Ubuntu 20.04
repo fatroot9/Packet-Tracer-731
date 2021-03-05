@@ -11,7 +11,7 @@ sudo apt update
 cd Downloads/
 ls -l
 Instalasi Packet Tracer sudo dpkg -i PacketTracer_731_amd64.deb
-Open ubuntu@ubuntu: packettracer
+Open packettracer
 Finish
 
 ==Error==
