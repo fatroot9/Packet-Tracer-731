@@ -1,0 +1,18 @@
+==Instalasi dpkg Ubuntu 20.04==
+Open Terminal CTRL+ALT+T
+sudo apt-get update
+sudo apt-get install gdebi
+
+==Intalasi Packet Tracer 731 Ubuntu 20.04==
+Download Packet Tracer Di https://www.netacad.com/
+Open Terminal CTRL+ALT+T
+pwd
+sudo apt update
+cd Downloads/
+ls -l
+Instalasi Packet Tracer sudo dpkg -i PacketTracer_731_amd64.deb
+Open ubuntu@ubuntu: packettracer
+Finish
+
+==Error==
+sudo apt install -f
